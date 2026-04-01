@@ -2,7 +2,7 @@
 
 ### A budding MAT student and developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamberlainzhang0821" alt="chamberlainzhang0821" /></a> </p>
+
 
 - 🔭 I'm currently working on **A Stock Picking Project & a Vintage Pricing Project**
 
