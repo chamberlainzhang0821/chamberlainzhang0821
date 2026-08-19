@@ -16,7 +16,7 @@
 
 
 
-- 📄 Know about my experiences: **[CV_ME_Google_Drive]([https://drive.google.com/file/d/15-Qh1lUiQRpBGs7hA9XzGAr-Ry7SC4Mp/view?usp=share_link](https://drive.google.com/file/d/1ea_V6THwaUtWFs1-TPrL1b7RnNsFWKz7/view?usp=sharing))**
+- 📄 Know about my experiences: **[CV_ME_Google_Drive](https://drive.google.com/file/d/1ea_V6THwaUtWFs1-TPrL1b7RnNsFWKz7/view?usp=sharing)**
 
 
 <h3 align="left">Languages and Tools:</h3>
