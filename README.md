@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I'm currently working on **A Stock Picking Project & a Vintage Pricing Project**
+- 🔭 I'm currently working on DRiD project with ERDL lab and Small Sample Estimation with D-lab in University of California, Berkeley
 
 - 🌱 I'm currently learning **Mathematics and Applied Mathematics**
 
